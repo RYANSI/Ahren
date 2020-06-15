@@ -17,7 +17,7 @@ export const prefix = (function () {
 })();
 
 
-export const genres = ["Electro Pop", "Hip Hop", "Chillwave", "Classical", "Indie", "Jazz", "Folk", "Metal", "Latin", "Reggae", "World", "Piano", "Electronic", "Country", "Dance"]
+export const genres = ["Electro Pop", "Hip Hop", "Indian", "Punjabi", "Indie", "desifrenzy1", "Folk", "Metal", "Latin", "Reggae", "World", "Piano", "Electronic", "Country", "Dance"]
 
 
 export const visualizers = {
